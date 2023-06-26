@@ -35,5 +35,5 @@ MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. H
 17. Office management software with AI
 18. AI-based decision-making for office operations
 19. AI analytics for cost reduction in office management
-20. Improving team collaboration with AI.
+20. Improving team collaboration with AI
 
