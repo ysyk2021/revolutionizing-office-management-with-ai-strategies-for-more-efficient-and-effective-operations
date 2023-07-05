@@ -1,4 +1,4 @@
-Natural Language Processing, Machine Learning, and Deep Learning
+Types of AI: natural language processing, machine learning, and deep learning
 ===========================================================================================================================================
 
 AI technology encompasses a range of different technologies and techniques that enable machines to learn, reason, and make decisions. In this chapter, we will discuss three types of AI that are particularly relevant for office management: natural language processing, machine learning, and deep learning.
