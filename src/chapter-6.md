@@ -1,5 +1,3 @@
-Chapter 5: Optimizing Office Space with AI
-==========================================
 
 Artificial intelligence (AI) technology can optimize office space by improving occupancy monitoring, environmental control systems, and energy efficiency practices. In this chapter, we will explore the various ways that AI can be used to optimize office space.
 

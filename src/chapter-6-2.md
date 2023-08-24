@@ -1,5 +1,3 @@
-Personalized Recommendations for Energy Efficiency and Sustainability Practices
-===========================================================================================================================
 
 As businesses become more aware of the need for sustainability, there is an increasing focus on reducing energy consumption and minimizing waste in the workplace. Artificial intelligence (AI) can help businesses achieve these goals by providing personalized recommendations for improving office space energy efficiency and sustainability practices.
 

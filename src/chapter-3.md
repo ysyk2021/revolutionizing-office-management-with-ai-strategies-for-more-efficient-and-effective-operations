@@ -1,5 +1,3 @@
-Chapter 2: Streamlining Administrative Tasks with AI
-====================================================
 
 Artificial intelligence (AI) technology can help revolutionize office management by streamlining administrative tasks, such as scheduling and document management. In this chapter, we will explore the various ways that AI can be used to streamline administrative tasks.
 

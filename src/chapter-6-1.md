@@ -1,5 +1,3 @@
-Use of AI for Optimizing Office Space, including Occupancy Monitoring and Environmental Control Systems
-===================================================================================================================================================
 
 Effective office space optimization is critical for businesses looking to increase productivity, reduce costs, and create a more efficient and effective workplace. AI can play a significant role in optimizing office space, including through the use of occupancy monitoring and environmental control systems.
 

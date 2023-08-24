@@ -1,5 +1,3 @@
-Chapter 6: Addressing Ethical Considerations in AI Adoption for Office Management
-=================================================================================
 
 As businesses increasingly rely on AI for office management, it is important to consider potential ethical implications. In this chapter, we will discuss ethical considerations when using AI for office management and ways to address them.
 

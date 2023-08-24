@@ -1,5 +1,3 @@
-Use of AI for Streamlining Administrative Tasks, Including Scheduling and Document Management
-===================================================================================================================================================
 
 In this chapter, we will discuss how AI technology can streamline administrative tasks in office management, including scheduling and document management.
 
