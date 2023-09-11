@@ -1,5 +1,4 @@
-Chapter 12: Advantages of AI for Improving Office Efficiency and Effectiveness
-==============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial Intelligence (AI) technology offers numerous advantages for improving office efficiency and effectiveness. In this chapter, we will explore some of the benefits that AI can provide to office management processes.
 

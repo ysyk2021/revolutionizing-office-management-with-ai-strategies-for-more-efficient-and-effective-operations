@@ -1,5 +1,4 @@
-Chapter 14: Use of AI for Improving Workflow Processes, Including Task Automation and Process Optimization
-==========================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the realm of office management, the use of Artificial Intelligence (AI) has proven to be highly beneficial in improving workflow processes. This chapter explores how AI can enhance office efficiency and effectiveness through task automation and process optimization.
 

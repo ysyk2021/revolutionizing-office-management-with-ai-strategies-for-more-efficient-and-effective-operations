@@ -1,5 +1,4 @@
-Chapter 13: Types of AI: Natural Language Processing, Machine Learning, and Deep Learning
-=========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the field of Artificial Intelligence (AI), several types of technologies have emerged, each with its unique capabilities and applications. In this chapter, we will explore three prominent types of AI: Natural Language Processing (NLP), Machine Learning (ML), and Deep Learning (DL).
 

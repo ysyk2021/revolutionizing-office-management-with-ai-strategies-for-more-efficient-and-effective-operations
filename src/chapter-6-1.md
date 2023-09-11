@@ -1,5 +1,4 @@
-Chapter 8: Use of AI for Optimizing Office Space, Including Occupancy Monitoring and Environmental Control Systems
-==================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 One of the key ways AI strategies revolutionize office management is through optimizing office space. This chapter explores the use of AI technologies for optimizing office space, including occupancy monitoring and environmental control systems. These AI-driven solutions can enhance efficiency, productivity, and employee well-being within the workplace.
 

@@ -1,5 +1,4 @@
-Chapter 11: Explanation of AI Technology and Its Capabilities for Office Management
-===================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial Intelligence (AI) technology has the potential to revolutionize office management by introducing innovative strategies for efficient and effective operations. This chapter provides an in-depth explanation of AI technology and its capabilities for office management.
 

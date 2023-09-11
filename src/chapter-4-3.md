@@ -1,5 +1,4 @@
-Chapter 9: Potential Limitations and Ethical Considerations in Using AI for Communication and Collaboration Enhancement
-=======================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 While AI strategies offer significant potential for enhancing communication and collaboration in the workplace, it is essential for organizations to consider potential limitations and ethical implications associated with the use of AI technologies. This chapter explores the challenges and ethical considerations that organizations should be mindful of when implementing AI strategies for communication and collaboration enhancement.
 

@@ -1,5 +1,4 @@
-Chapter 15: Addressing Potential Challenges and Ethical Considerations in Using AI for Administrative Tasks
-===========================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 AI technologies have the potential to revolutionize office management by automating administrative tasks, improving efficiency, and enhancing decision-making. However, their implementation also raises important challenges and ethical considerations that need to be addressed. This chapter discusses the potential challenges and provides insights into addressing the ethical considerations when using AI for administrative tasks.
 

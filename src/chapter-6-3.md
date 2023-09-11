@@ -1,5 +1,4 @@
-Chapter 7: Potential Limitations and Ethical Considerations in Using AI for Office Space Optimization
-=====================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 While the integration of AI strategies in office management offers numerous benefits, it is essential to consider potential limitations and ethical considerations associated with the use of AI for office space optimization. This chapter explores the challenges and ethical implications that organizations should be mindful of when implementing AI technologies for optimizing office spaces.
 

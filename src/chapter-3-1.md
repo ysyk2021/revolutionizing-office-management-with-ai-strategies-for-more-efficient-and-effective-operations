@@ -1,5 +1,4 @@
-Chapter 17: Use of AI for Streamlining Administrative Tasks, including Scheduling and Document Management
-=========================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In today's fast-paced work environment, administrative tasks can consume a significant amount of time and resources. This chapter explores how Artificial Intelligence (AI) can revolutionize office management by streamlining administrative tasks, with a specific focus on scheduling and document management.
 
